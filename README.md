@@ -1,5 +1,5 @@
-# Crossword
-This is a crossword game made in python. It only displace the possible represntaion of any given list of words in a crossword board.
+# Crossword Board
+This is a crossword board made in python. It only displace the possible represntaion of any given list of strings in a crossword board.
 
 
 
